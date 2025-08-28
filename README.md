@@ -54,4 +54,4 @@ Automatizar cenários de requisições da aplicação **[SauceDemo]**, garantind
 
 ## 📄 Licença
 
-Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/LucasWandermurem/sauce-demo-cypress-web/blob/main/LICENSE) para detalhes.
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md]([https://github.com/LucasWandermurem/sauce-demo-cypress-web/blob/main/LICENSE](https://github.com/LucasWandermurem/sauce-demo-cypress-web-bdd/blob/main/LICENSE)) para detalhes.
